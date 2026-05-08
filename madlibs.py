@@ -1,3 +1,4 @@
+# BroCode
 location = input("Enter the location: ")
 funthing = input("Enter the entertaining thing: ")
 surprise = input("Enter the random event: ")
